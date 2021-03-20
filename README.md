@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rushabhkela
 - 👀 I’m interested in Competitive Programming, Web Development, ML.
 - 🌱 I’m currently learning Machine Learning from courses on Udemy.
-- 💞️ I’m looking to collaborate on projects that involve Python, C++ programming.
+- 💞️ I’m looking to collaborate on projects that involve Python, C++ programming, MERN stack.
 - 📫 How to reach me :
         E-Mail : kelarushabh@gmail.com
         Phone No : +91 9834473257
