@@ -29,7 +29,7 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rushabhkela/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UPBEwo17rkvw5sVLLleRydUOejSLa8fp/view?usp=sharing)
 - 🖥 &nbsp; [My Portfolio](https://rushabh-kela.herokuapp.com)
-- ⏳ &nbsp; Feel free to mail me, in case of any queries related to my projects.
+- ⏳ &nbsp; Feel free to mail me, in case of any queries related to my &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;projects.
 
 <br>
 
