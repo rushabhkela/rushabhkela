@@ -18,7 +18,7 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 <br/>
 <img align="right" alt="GIF" src="/images/image3.gif" width="360px"/>
   
-### 🧐 More About Me:
+## 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently thinking of a new idea to work on.
 - 🤝 &nbsp; Would love to integrate new ideas into [VITdost](https://github.com/rushabhkela/vitdost) 
@@ -28,11 +28,12 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rushabhkela/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UPBEwo17rkvw5sVLLleRydUOejSLa8fp/view?usp=sharing)
+- 🖥 &nbsp; [My Portfolio](https://rushabh-kela.herokuapp.com)
 - ⏳ &nbsp; Feel free to mail me, in case of any queries related to my projects.
 
 <br>
 
-### 🔨 Languages and Tools:
+## 🔨 Languages and Tools:
 
 <a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="icons/c++/c++.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="icons/python/python.svg"></a>
@@ -46,9 +47,9 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="icons/java/java.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="icons/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="icons/react/react.svg"></a>
-<a href="https://www.r-project.org/" target="_blank"><img align="left" alt="R" height ="38px" src="images/r.png"></a>
-<a href="https://heroku.com/" target="_blank"><img align="left" alt="Heroku" height ="38px" src="images/heroku.png"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VS Code" height ="38px" src="images/vscode.png"></a>
+<a href="https://www.r-project.org/" target="_blank"><img align="left" alt="R" style="padding-top:10px;" height ="32px" src="images/r.png"></a>
+<a href="https://heroku.com/" target="_blank"><img align="left" alt="Heroku" height ="32px" style="padding-top:10px;" src="images/heroku.png"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VS Code" style="padding-top:10px;" height ="32px" src="images/vscode.png"></a>
 
 
 <br>
@@ -58,6 +59,38 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 <br>
 
 
-### 📊 Github Stats
+## 📊 Github Stats
+![Rushabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushabhkela&show_icons=true&theme=radical)
 
-### 🛠️ My Projects
+
+
+
+
+## 🛠️ My Projects
+<a href="https://github.com/rushabhkela/prism">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=prism" />
+</a>
+<a href="https://github.com/rushabhkela/vitdost">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost" />
+</a>
+<a href="https://github.com/rushabhkela/ezshopping">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=ezshopping" />
+</a>
+<a href="https://github.com/rushabhkela/crackjack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=crackjack" />
+</a>
+
+<br>
+<br>
+<hr>
+<br>
+
+<p align="center">I am looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products for the world 🌍!</p>
+<br>
+<br>
+<p style="display:inline" align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/rushabhkela/count.svg" />
+</p>
+
+<img src="/images/image2.png" alt="imag1" style="width:35%;" align="right" >
