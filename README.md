@@ -73,6 +73,7 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 <a href="https://github.com/rushabhkela/vitdost">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost" />
 </a>
+<br>
 <a href="https://github.com/rushabhkela/ezshopping">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=ezshopping" />
 </a>
