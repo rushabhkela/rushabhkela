@@ -24,7 +24,7 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 - 🤝 &nbsp; Would love to integrate new ideas into [VITdost](https://github.com/rushabhkela/vitdost) 
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rushabhkela?tab=repositories)
-- 🎨 &nbsp; I have also worked with R for Data Science, and quite good in Data  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visualisation, Data Processing and EDA using R.
+- 🎨 &nbsp; I have also worked with R for Data Science, and quite good in  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Visualisation, Data Processing and EDA using R.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rushabhkela/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UPBEwo17rkvw5sVLLleRydUOejSLa8fp/view?usp=sharing)
