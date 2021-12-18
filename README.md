@@ -16,7 +16,7 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 <br/>
 <br/>
 <br/>
-<img align="right" alt="GIF" src="/images/image3.gif" width="360px"/>
+<img align="right" alt="GIF" src="/images/image3.gif" width="360px" height="400px"/>
   
 ## 🧐 More About Me:
 
@@ -67,18 +67,18 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 
 
 ## 🛠️ My Projects
-<a href="https://github.com/rushabhkela/prism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=prism" />
+<a href="https://github.com/rushabhkela/vitdost-2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost-2021" />
 </a>
-<a href="https://github.com/rushabhkela/vitdost">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost" />
+<a href="https://github.com/rushabhkela/vitdost-2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost-2021" />
 </a>
 <br>
-<a href="https://github.com/rushabhkela/ezshopping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=ezshopping" />
+<a href="https://github.com/rushabhkela/vitdost-2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost-2021" />
 </a>
-<a href="https://github.com/rushabhkela/crackjack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=crackjack" />
+<a href="https://github.com/rushabhkela/vitdost-2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost-2021" />
 </a>
 
 <br>
