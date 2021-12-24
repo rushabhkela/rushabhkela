@@ -28,7 +28,6 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rushabhkela/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UPBEwo17rkvw5sVLLleRydUOejSLa8fp/view?usp=sharing)
-- 🖥 &nbsp; [My Portfolio](https://rushabh-kela.herokuapp.com)
 - ⏳ &nbsp; Feel free to mail me, in case of any queries related to my &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;projects.
 
 <br>
@@ -68,18 +67,12 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 
 ## 🛠️ My Projects
 <a href="https://github.com/rushabhkela/vitdost-2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost-2021" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=VITdost" />
 </a>
 <a href="https://github.com/rushabhkela/vitdost-2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost-2021" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=XChange" />
 </a>
 <br>
-<a href="https://github.com/rushabhkela/vitdost-2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost-2021" />
-</a>
-<a href="https://github.com/rushabhkela/vitdost-2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=vitdost-2021" />
-</a>
 
 <br>
 <br>
