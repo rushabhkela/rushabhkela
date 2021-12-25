@@ -47,7 +47,6 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="icons/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="icons/react/react.svg"></a>
 <a href="https://www.r-project.org/" target="_blank"><img align="left" alt="R" style="padding-top:10px;" height ="32px" src="images/r.png"></a>
-<a href="https://heroku.com/" target="_blank"><img align="left" alt="Heroku" height ="32px" style="padding-top:10px;" src="images/heroku.png"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VS Code" style="padding-top:10px;" height ="32px" src="images/vscode.png"></a>
 
 
