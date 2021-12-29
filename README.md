@@ -65,7 +65,7 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 
 ## 🛠️ My Projects
 <a href="https://github.com/rushabhkela/VITdost">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=VITdost" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=VITdost"/>
 </a>
 <a href="https://github.com/rushabhkela/XChange">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rushabhkela&repo=XChange" />
