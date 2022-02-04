@@ -3,7 +3,7 @@
 # Hey 👋🏻, I'm Rushabh Kela
 
 
-<a href='https://www.linkedin.com/in/rushabhkela/'><img align='left' alt="linkedin" src="/images/linkedin.png" height='18px'/></a>
+<a href='https://www.linkedin.com/in/rushabh-kela/'><img align='left' alt="linkedin" src="/images/linkedin.png" height='18px'/></a>
 <a href='https://leetcode.com/kelarushabh-lc/'><img align='left' alt="lc" src="/images/lc.png" height='18px'/></a>
 <a href='mailto:kelarushabh@gmail.com'><img alt="email" src="/images/gmail.png" height='18px'/></a>
 
@@ -26,7 +26,7 @@ I am a versatilist and a full - stack developer, having made some really cool pr
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rushabhkela?tab=repositories)
 - 🎨 &nbsp; I have also worked with R for Data Science, and quite good in  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Visualisation, Data Processing and EDA using R.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rushabhkela/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rushabh-kela/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UPBEwo17rkvw5sVLLleRydUOejSLa8fp/view?usp=sharing)
 - ⏳ &nbsp; Feel free to mail me, in case of any queries related to my &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;projects.
 
